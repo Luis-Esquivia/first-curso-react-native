@@ -1,0 +1,8 @@
+***COMANDOS***
+* Creat un nuevo proyecto de 0 sin nada: npx create-expo-app@latest first-curso-react-native --template blank
+* Agregar react-dom para visualizar el proyecto en el navegador: npx expo install react-dom react-native-web @expo/metro-runtime
+* Agregar un linter al proyecto: npx expo lint
+
+***EXPLICACIONES***
+
+
